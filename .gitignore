@@ -38,3 +38,5 @@ certificates/
 *.json
 *.bkp
 .*/
+*/.*
+*.l*
